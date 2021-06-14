@@ -36,5 +36,8 @@ Verify basic search functionality
     And I delete the product from my wishlist
 
     
-Command to run the wishlist test:
-python -m robot Demo\Tests\wishlist_test.robot
+## To install the libraries, use:
+# pip -r requirements.txt
+
+#Command to run the wishlist test:
+#python -m robot Demo\Tests\wishlist_test.robot
